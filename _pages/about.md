@@ -29,17 +29,14 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 # Publications
 
 - [Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication](https://arxiv.org/abs/1904.06309)
-
   - Yuanhao Wang\*,  **Jiachen Hu**\*, Xiaoyu Chen, Liwei Wang
   - ICLR 2020
 
 - [Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL](https://arxiv.org/abs/2008.13319)
-
   - Xiaoyu Chen, **Jiachen Hu**, Lihong Li, Liwei Wang
   - ICLR 2021
 
 - [Near-optimal Representation Learning for Linear Bandits and Linear RL](https://arxiv.org/abs/2102.04132)
-
   - **Jiachen Hu**\*, Xiaoyu Chen\*, Chi Jin, Lihong Li, Liwei Wang
   - ICML 2021
 
