@@ -12,7 +12,7 @@ My name is Jiachen Hu(胡家琛), a third-year PhD student at Peking University.
 
 I have board insterests in sample efficient reinforcement learing and online learning, especially the application-driven problems. In the past few years, my recent researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my research or talking whatever interesting with me!
 
-My Curriculum Vitae can be found [here](https://github.com/NickHclos/NickHclos.github.io/tree/master/files/cv.pdf).
+My Curriculum Vitae can be found [here](https://nickhclos.github.io/files/cv.pdf).
 
 <!--# News
 
