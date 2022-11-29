@@ -20,6 +20,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 -->
 
 # Preprints
+(* denotes equal contributions)
 
 - [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations
 ](https://arxiv.org/abs/2210.15598)
@@ -27,6 +28,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 	- Arxiv preprint
 	
 # Publications
+(* denotes equal contributions)
 
 - [Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication](https://arxiv.org/abs/1904.06309)
   - Yuanhao Wang\*,  **Jiachen Hu**\*, Xiaoyu Chen, Liwei Wang
