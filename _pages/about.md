@@ -20,7 +20,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 -->
 
 # News
-- Jan 2023: A paper accepted by ICLR2023! 
+- Jan 2023: One paper accepted at ICLR2023! 
 
 <!--# Preprints
 (* denotes equal contributions)
