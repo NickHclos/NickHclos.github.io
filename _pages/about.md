@@ -22,14 +22,12 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 # News
 - Jan 2023: One paper accepted at ICLR2023! 
 
-<!--# Preprints
+# Preprints
 (* denotes equal contributions)
 
-- [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations
-](https://arxiv.org/abs/2210.15598)
-	- **Jiachen Hu**\*, Han Zhong\*, Chi Jin, Liwei Wang
+- [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
+	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
 	- Arxiv preprint
--->
 
 # Publications
 (* denotes equal contributions)
