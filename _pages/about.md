@@ -32,17 +32,10 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 # Publications
 (* denotes equal contributions)
 
-- [Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication](https://arxiv.org/abs/1904.06309)
-  - Yuanhao Wang\*,  **Jiachen Hu**\*, Xiaoyu Chen, Liwei Wang
-  - ICLR 2020
-
-- [Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL](https://arxiv.org/abs/2008.13319)
-  - Xiaoyu Chen, **Jiachen Hu**, Lihong Li, Liwei Wang
-  - ICLR 2021
-
-- [Near-optimal Representation Learning for Linear Bandits and Linear RL](https://arxiv.org/abs/2102.04132)
-  - **Jiachen Hu**\*, Xiaoyu Chen\*, Chi Jin, Lihong Li, Liwei Wang
-  - ICML 2021
+- [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations
+](https://arxiv.org/abs/2210.15598)
+	- **Jiachen Hu**\*, Han Zhong\*, Chi Jin, Liwei Wang
+	- ICLR 2023
 
 - [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)
 	- Xiaoyu Chen\*, **Jiachen Hu**\*, Chi Jin, Lihong Li, Liwei Wang
@@ -53,10 +46,17 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 	- Xiaoyu Chen, **Jiachen Hu**, Lin F. Yang, Liwei Wang
 	- ICLR 2022 (spotlight, 6% 176/3328)
 
-- [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations
-](https://arxiv.org/abs/2210.15598)
-	- **Jiachen Hu**\*, Han Zhong\*, Chi Jin, Liwei Wang
-	- ICLR 2023
+- [Near-optimal Representation Learning for Linear Bandits and Linear RL](https://arxiv.org/abs/2102.04132)
+  - **Jiachen Hu**\*, Xiaoyu Chen\*, Chi Jin, Lihong Li, Liwei Wang
+  - ICML 2021
+
+- [Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL](https://arxiv.org/abs/2008.13319)
+  - Xiaoyu Chen, **Jiachen Hu**, Lihong Li, Liwei Wang
+  - ICLR 2021
+
+- [Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication](https://arxiv.org/abs/1904.06309)
+  - Yuanhao Wang\*,  **Jiachen Hu**\*, Xiaoyu Chen, Liwei Wang
+  - ICLR 2020
 
 # Misc.
 
