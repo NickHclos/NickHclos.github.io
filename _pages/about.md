@@ -20,7 +20,8 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 -->
 
 # News
-- Jan 2023: One paper accepted at ICLR2023! 
+- Jun 2023: Happy to visit Princeton U for 5-6 months!
+- Jan 2023: One paper accepted at ICLR2023!
 
 # Preprints
 (* denotes equal contributions)
