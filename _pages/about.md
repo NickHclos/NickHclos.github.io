@@ -20,7 +20,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 -->
 
 # News
-- Jun 2023: Happy to visit Princeton U for 5-6 months!
+- Jun 2023: Happy to visit Princeton University for 5-6 months!
 - Jan 2023: One paper accepted at ICLR2023!
 
 # Preprints
@@ -58,6 +58,14 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 - [Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication](https://arxiv.org/abs/1904.06309)
   - Yuanhao Wang\*,  **Jiachen Hu**\*, Xiaoyu Chen, Liwei Wang
   - ICLR 2020
+
+# Teaching
+- TA for **Machine Learning**, 2021 Spring, instructed by Prof. Liwei Wang.
+
+# Academic Service
+- Conference reviewing: ICLR (2021, 2022, 2023); ICML (2022); Neurips (2021, 2023)
+
+- Journal reviewing: AURO 
 
 # Misc.
 
