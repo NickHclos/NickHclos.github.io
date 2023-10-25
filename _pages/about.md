@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiachen Hu (胡家琛), a third-year PhD student at Peking University. I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University. 
+My name is Jiachen Hu (胡家琛), a fourth-year PhD student at Peking University. I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University. 
 
 I have board insterests in sample efficient reinforcement learing and online learning, especially the application-driven problems. In the past few years, my researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my researches or having a chat with me!
 
@@ -25,6 +25,11 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 
 # Preprints
 (* denotes equal contributions)
+
+- [ZeroSwap: Data-driven Optimal Market Making in DeFi](https://arxiv.org/abs/2310.09413)
+  - Viraj Nadkarni, **Jiachen Hu**, Ranvir Rana, Chi Jin, Sanjeev Kulkarni, Pramod Viswanath
+  - Arxiv Preprint
+
 
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
 	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
