@@ -68,7 +68,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 - TA for **Machine Learning**, 2021 Spring, instructed by Prof. Liwei Wang.
 
 # Academic Service
-- Conference reviewing: ICLR (2021, 2022, 2023); ICML (2022); Neurips (2021, 2023)
+- Conference reviewing: ICLR (2021, 2022, 2023, 2024); ICML (2022); Neurips (2021, 2023)
 
 - Journal reviewing: AURO 
 
