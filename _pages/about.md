@@ -26,17 +26,16 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 # Preprints
 (* denotes equal contributions)
 
-- [ZeroSwap: Data-driven Optimal Market Making in DeFi](https://arxiv.org/abs/2310.09413)
-  - Viraj Nadkarni, **Jiachen Hu**, Ranvir Rana, Chi Jin, Sanjeev Kulkarni, Pramod Viswanath
-  - Arxiv Preprint
-
-
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
 	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
 	- Arxiv preprint
 
 # Publications
 (* denotes equal contributions)
+
+- [ZeroSwap: Data-driven Optimal Market Making in DeFi](https://arxiv.org/abs/2310.09413)
+  - Viraj Nadkarni, **Jiachen Hu**, Ranvir Rana, Chi Jin, Sanjeev Kulkarni, Pramod Viswanath
+  - FC 2024
 
 - [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations
 ](https://arxiv.org/abs/2210.15598)
