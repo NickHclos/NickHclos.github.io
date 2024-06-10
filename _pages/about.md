@@ -26,12 +26,16 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv.pdf
 # Preprints
 (* denotes equal contributions)
 
-- [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
-	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
-	- Arxiv preprint
+- [On Limitation of Transformer for Learning HMMs](https://arxiv.org/abs/2406.04089)
+- **Jiachen Hu**, Qinghua Liu, Chi Jin
+- Arxiv preprint
 
 # Publications
 (* denotes equal contributions)
+
+- [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
+	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
+	- ICML 2024
 
 - [ZeroSwap: Data-driven Optimal Market Making in DeFi](https://arxiv.org/abs/2310.09413)
   - Viraj Nadkarni, **Jiachen Hu**, Ranvir Rana, Chi Jin, Sanjeev Kulkarni, Pramod Viswanath
