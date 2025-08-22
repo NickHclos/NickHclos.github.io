@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiachen Hu (胡家琛), a fifth-year PhD student at Peking University. I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University. 
+My name is Jiachen Hu (胡家琛), now working as an algorithm developer at ByteDance. I graduated from Peking University and received the PhD degree in 2025, where I am fortunate to be advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/), and spend wonderful times working with [Chi Jin](https://sites.google.com/view/cjin/home?pli=1) and [Lihong Li](https://lihongli.github.io/) remotely for past years. Before becoming a PhD candidate, I obtained my B.S. from Turing Class, Peking University. 
 
 I have board insterests in sample efficient reinforcement learing and online learning, especially the application-driven problems. In the past few years, my researches focused on statistically efficient bandits (e.g., multi-armed bandits, linear bandits), online exploration in structured MDPs/POMDPs, and understanding sim-to-real transfer. Please feel free to contact me if you are interested in my researches or having a chat with me!
 
@@ -20,6 +20,8 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv2.pd
 -->
 
 # News
+- Jul 2025: Joining Bytedance as an algorithm developer!
+- May 2025: One paper accepted at ICML2025!
 - May 2024: One paper accepted at ICML2024!
 - May 2024: One paper accepted at TQC2024!
 - Jun 2023: Happy to visit Princeton University for 5-6 months!
