@@ -34,8 +34,16 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv2.pd
   - **Jiachen Hu**, Qinghua Liu, Chi Jin
   - Arxiv preprint
 
+- [New sphere packings from the antipode construction](https://arxiv.org/abs/2505.02394)
+	- Ruitao Chen, **Jiachen Hu**, Binghui Li, Liwei Wang, Tianyi Wu (alphabetical order)
+	- Arxiv preprint
+
 # Publications
 (* denotes equal contributions)
+
+- [The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability](https://arxiv.org/abs/2506.09940)
+	- **Jiachen Hu**, Rui Ai, Han Zhong, Xiaoyu Chen, Liwei Wang, Zhaoran Wang, Zhuoran Yang
+	- ICML 2025
 
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796)
 	- Han Zhong\*, **Jiachen Hu**\*, Yecheng Xue, Tongyang Li, Liwei Wang
@@ -81,7 +89,7 @@ My curriculum vitae can be found [here](https://nickhclos.github.io/files/cv2.pd
 # Academic Service
 - Conference reviewing: ICLR (2021, 2022, 2023, 2024); ICML (2022); Neurips (2021, 2023)
 
-- Journal reviewing: AURO 
+- Journal reviewing: AURO (IF = 4.3)
 
 # Misc.
 
